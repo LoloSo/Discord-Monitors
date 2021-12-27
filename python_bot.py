@@ -2,7 +2,7 @@ from telegram import Update, ReplyKeyboardMarkup,  ReplyKeyboardRemove
 from telegram.ext import Updater, MessageHandler, Filters, CommandHandler
 
 
-TOKEN = '1684008354:AAH-Dt34-C4OzR3wo5IjHbzNd8bsQfjL5Wg'
+TOKEN = 'TOKEN'
 
 
 def main():
