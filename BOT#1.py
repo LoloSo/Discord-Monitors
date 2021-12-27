@@ -4,7 +4,7 @@ from openpyxl import load_workbook
 
 wb = load_workbook('database.xlsx')
 vendor = wb['articels']
-token = '1684008354:AAGtETeI2tgXd-AM_6AQvJmh43aTSYjkXxE'
+token = 'TOKEN'
 
 
 def main():
